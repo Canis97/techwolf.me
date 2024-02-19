@@ -1,0 +1,13 @@
+title = 'Hello there'
+
+[author]
+name = "Hannah Wolf"
+image = "img/MyCharacter.JPG"
+headline = "A generally awesome human"
+bio = "A little bit about me"
+links = [
+  { mastodon = "https://toot.kif.rocks/@hananas" },
+  { xing = "https://www.xing.com/profile/Hannah_Wolf29"},
+  {link = "https://techwolf.me"},
+  {github = "https://github.com/Canis97"}
+]
